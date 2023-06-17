@@ -42,4 +42,4 @@ Windows 11, Python 3.10.9, conda 23.1.0, pandas 2.0.1, matplotlib 3.7.1, seaborn
 
 ### [참고 분석 보고서](https://github.com/mj0718/python-project/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
-## [참고 분석 포트폴리오](https://github.com/mj0718/python-project/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+### [참고 분석 포트폴리오](https://github.com/mj0718/python-project/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
